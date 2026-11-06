@@ -1,0 +1,21 @@
+## Interface: 16001
+## Title: Forever Chronicle
+## Notes: Chronicles your character's journey: routes on the world map, deaths, level-ups, places and a backstory you can share.
+## Version: @project-version@
+## Author: laminatefish
+## X-Website: https://github.com/laminatefish/ForeverChronicle
+## IconTexture: Interface\Icons\INV_Misc_Map_01
+## SavedVariables: ForeverChronicleDB
+## SavedVariablesPerCharacter: ForeverChronicleCharDB
+## AddonCompartmentFunc: ForeverChronicle_OnCompartmentClick
+
+Core.lua
+Geo.lua
+Recorder.lua
+Chronicle.lua
+MapOverlay.lua
+JournalUI.lua
+Share.lua
+ReaderUI.lua
+Probe.lua
+Commands.lua

@@ -1,0 +1,8 @@
+# Settings for the BigWigs packager (https://github.com/BigWigsMods/packager),
+# run by .github/workflows/release.yml when a version tag is pushed.
+
+# The repository is ForeverChronicle, but the addon folder must match the .toc
+package-as: ForeverChronicle
+
+ignore:
+  - README.md
