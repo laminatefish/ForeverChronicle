@@ -52,3 +52,7 @@ git push origin v0.2.0
 ```
 
 The workflow fills in the version, builds `ForeverChronicle-v0.2.0.zip` and attaches it to a GitHub release. To upload to CurseForge and Wago as well, add `## X-Curse-Project-ID:` and `## X-Wago-ID:` to the `.toc` and set the `CF_API_KEY` and `WAGO_API_TOKEN` repository secrets.
+
+## License
+
+[MIT](LICENSE)
